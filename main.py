@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import smtplib
 
-sender_email = 'youemailaddresss'
+sender_email = 'yourmailaddresss'
 # app password to login
 python = "secure_code_to_sendemail"
 # list of receivers mails
