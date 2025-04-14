@@ -1,0 +1,569 @@
+milk chocolate
+dark chocolate 70%milk (full cream)
+milk (toned)apple
+bananabiryani
+butter chickenrice
+wheatchickpeas
+lentilsdark chocolate 85%
+white chocolate
+hazelnut chocolate
+almond chocolate
+peanut butter chocolate
+mint chocolate
+caramel chocolate
+fruit & nut chocolate
+coffee chocolate
+coconut chocolate
+orange chocolate
+raspberry chocolate
+chili chocolate
+matcha chocolate
+ruby chocolate
+crispy chocolate
+nougat chocolate
+toffee chocolate
+soy milk chocolate
+vegan dark chocolate
+sea salt chocolate
+macadamia chocolate
+pistachio chocolate
+oreo chocolate
+brownie chocolate
+banana chocolate
+strawberry chocolate
+ginger chocolate
+lavender chocolate
+honeycomb chocolate
+marzipan chocolate
+cherry chocolate
+lemon chocolate
+cinnamon chocolate
+hazelnut praline chocolate
+biscuit chocolate
+mint truffle chocolate
+black currant chocolate
+almond truffle chocolate
+caramelized hazelnut chocolate
+peanut caramel chocolate
+dark almond chocolate
+chili lime chocolate
+salted caramel chocolate
+espresso chocolate
+pumpkin spice chocolate
+vanilla bean chocolate
+mango chocolate
+fig chocolate
+cashew chocolate
+date chocolate
+blueberry chocolate
+cranberry chocolate
+peach chocolate
+passion fruit chocolate
+watermelon chocolate
+pineapple chocolate
+lychee chocolate
+kiwi chocolate
+maple chocolate
+molasses chocolate
+walnut chocolate
+peanut chocolate
+cocoa nib chocolate
+bailey's chocolate
+whiskey chocolate
+rum chocolate
+gin chocolate
+vodka chocolate
+beer chocolate
+tequila chocolate
+cognac chocolate
+coconut almond chocolate
+salted peanut chocolate
+hazelnut raisin chocolate
+choco truffle
+double chocolate fudge
+cherry truffle chocolate
+chocolate raspberry ganache
+gingerbread chocolate
+choco mocha
+spiced hot chocolate
+brown butter chocolate
+malted milk chocolate
+salted pistachio chocolate
+almond butter chocolate
+caramelized almond chocolate
+chocolate mousse bar
+coconut milk chocolate
+chocolate tart
+mint fudge chocolate
+peanut nougat chocolate
+toasted almond chocolate
+coffee caramel chocolate
+pecan chocolate
+choco orange peel
+saffron chocolate
+honey chocolatemilk (skimmed)
+curd
+buttermilk
+paneer
+cheese
+butter
+ghee
+yogurt (plain)
+flavored milk
+cream
+condensed milk
+lassi
+ice cream
+milkshake (chocolate)
+milkshake (vanilla)
+kefir
+whey protein shake
+soy milk
+almond milk
+coconut milk
+evaporated milk
+sour cream
+ricotta cheese
+mozzarella cheese
+parmesan cheese
+cottage cheese
+whipped cream
+mascarpone
+probiotic drink
+buttermilk (spiced)
+malted milk
+coffee with milk
+tea with milk
+chocolate milk
+strawberry milk
+goat milk
+camel milk
+buffalo milk
+cream cheese
+greek yogurt
+butter milk (low fat)
+yak milk
+soy yogurt
+rice milk
+cashew milk
+hazelnut milk
+a2 cow milk
+peanut milk
+khoa
+dahi (set curd)
+feta cheese
+blue cheese
+queso fresco
+milk powder (reconstituted)
+colostrum milk
+ice milk
+clotted cream
+tzatziki
+processed cheese
+paneer (low fat)
+provolone cheese
+whey water
+labneh
+milk kefir
+acidophilus milk
+yogurt drink
+coconut yogurt
+laban
+kashkaval cheese
+creamed cottage cheese
+sheep milk
+evaporated coconut milk
+tofu milk
+almond yogurt
+lactose-free milk
+kombucha with milk
+dairy-free yogurt
+kumiss
+goat yogurt
+buffalo yogurt
+cashew yogurt
+vegan cheesemango
+orange
+grapes
+pineapple
+watermelon
+papaya
+guava
+pomegranate
+strawberry
+blueberry
+raspberry
+blackberry
+kiwi
+peach
+plum
+cherry
+lychee
+apricot
+fig
+avocado
+cranberry
+coconut
+date
+gooseberry
+passion fruit
+starfruit
+tamarind
+jackfruit
+mulberry
+persimmon
+nectarine
+olive
+cantaloupe
+honeydew
+dragon fruit
+mangosteen
+custard apple
+soursop
+bael
+jujube
+amla
+bilberry
+ackee
+longan
+sapota
+maracuja
+rambutan
+durian
+barberry
+breadfruit
+rose apple
+salak
+tangerine
+clementine
+pomelo
+cloudberry
+sea buckthorn
+kumquat
+feijoa
+jabuticaba
+blackcurrant
+redcurrant
+whitecurrant
+sloe
+sorbus
+pawpaw
+medlar
+elderberry
+miracle fruit
+cupuacu
+lucuma
+horned melon
+pitanga
+quince
+chempedak
+buddha's hand
+velvet apple
+yantok
+safou
+mamey sapote
+cedar bay cherry
+mamoncillo
+kei apple
+desert lime
+indian plum
+yangmei
+santol
+bignay
+chokeberry
+indian fig
+kaffir lime
+osage orange
+tindora
+monk fruit
+prickly pear
+gac fruit
+camu camu
+horned cucumberchole bhature
+dosa
+samosa
+pav bhaji
+pani puri
+dal makhani
+paneer tikka
+tandoori chicken
+aloo paratha
+rogan josh
+malai kofta
+chicken tikka
+idli
+vada pav
+palak paneer
+gulab jamun
+jalebi
+kadai paneer
+kofta curry
+momos
+misal pav
+poha
+upma
+hyderabadi haleem
+pesarattu
+rasam
+bhindi masala
+egg curry
+kadhi pakora
+dal fry
+fish curry
+prawn masala
+veg biryani
+aloo gobi
+chana masala
+kashmiri pulao
+pav sandwich
+chicken curry
+shahi paneer
+baingan bharta
+methi thepla
+litti chokha
+pongal
+vegetable kurma
+pesarattu dosa
+besan chilla
+chettinad chicken
+khandvi
+undhiyu
+chilli paneer
+gajar halwa
+sev puri
+dhokla
+nihari
+chicken 65
+pesarattu upma
+malabar parotta
+paneer bhurji
+phirni
+egg bhurji
+keema pav
+vegetable pakora
+banarasi kachori
+chilli chicken
+rajma chawal
+kuttu paratha
+appam
+dum aloo
+sarson da saag
+makki di roti
+mysore pak
+bisi bele bath
+macher jhol
+mutton korma
+vegetable pulao
+kozhukattai
+chicken chettinad
+korma
+sambar
+lemon rice
+pongal
+vegetable khichdi
+beef curry
+egg curry
+amritsari kulcha
+chicken manchurian
+prawn biryani
+paal payasam
+mango lassi
+aloo tikki
+kathi roll
+medu vada
+thalipeeth
+mysore masala dosa
+paniyaram
+chicken shawarma
+mutton biryani
+tomato rasambarley
+maize
+sorghum
+millet
+quinoa
+amaranth
+rye
+oats
+buckwheat
+teff
+fonio
+spelt
+farro
+kamut
+bulgur
+freekeh
+wild rice
+job's tears
+triticale
+brown rice
+black rice
+red rice
+jowar
+bajra
+ragi
+foxtail millet
+kodo millet
+little millet
+pearl millet
+barnyard millet
+finger millet
+puffed rice
+flattened rice
+parboiled rice
+sticky rice
+basmati rice
+arborio rice
+sona masoori rice
+seeraga samba
+ponni rice
+red parboiled rice
+wild oats
+cornmeal
+polenta
+corn flour
+semolina
+durum wheat
+couscous
+farina
+muesli
+bran
+cracked wheat
+sprouted wheat
+wheat germ
+barley flour
+brown teff
+white teff
+rice flour
+millet flour
+buckwheat flour
+amaranth flour
+sorghum flour
+corn starch
+multigrain flour
+quinoa flour
+rye flour
+whole wheat flour
+almond flour
+coconut flour
+chia seeds
+flax seeds
+psyllium husk
+sunflower seeds
+pumpkin seeds
+hemp seeds
+sesame seeds
+basil seeds
+poppy seeds
+sorghum bran
+rice bran
+wheat bran
+oat bran
+corn bran
+quinoa bran
+millet bran
+teff bran
+ragi flour
+spelt flour
+kamut flour
+farro flour
+barley groats
+oat groats
+cracked rye
+wheat berries
+whole barley
+pearled barley
+steel-cut oats
+instant oatsgreen gram
+black gram
+pigeon peas
+kidney beans
+black-eyed peas
+horse gram
+moth beans
+soybeans
+adzuki beans
+navy beans
+broad beans
+split peas
+bambara beans
+cranberry beans
+velvet beans
+lima beans
+winged beans
+mung beans
+urad dal
+masoor dal
+toor dal
+chana dal
+rajma dal
+moong dal
+kabuli chana
+brown lentils
+matki dal
+red kidney beans
+lablab beans
+pinto beans
+butter beans
+green peas
+fava beans
+dry peas
+cowpeas
+split moong beans
+split urad beans
+hyacinth beans
+kollu
+sprouted lentils
+yellow peas
+green gram dal
+white urad dal
+horse gram dal
+kulith dal
+black chana
+moth dal
+split black gram
+peas dal
+soy chunks
+split green peas
+split yellow peas
+chickpea flour
+besan flour
+whole green gram
+mung beans sprouts
+masoor malka
+whole urad dal
+arhar dal
+bengal gram dal
+sundal beans
+broad beans split
+whole black urad
+roasted gram
+bambara groundnut
+sprouted chickpeas
+muthira
+dried green peas
+hulled split moong
+flaked rice pulses
+flattened green gram
+moong chilka dal
+yellow lentils
+split red lentils
+black lentils
+bengal gram flour
+cracked wheat pulses
+horse gram flour
+sprouted green gram
+dry green lentils
+karamani
+bajra dal
+dry pigeon peas
+kuthiraivali dal
+ragi dal
+whole masoor
+millet dal
+sprouted fenugreek
+roasted makhana
+yellow gram
+dal makhani base
+rajma masala dal
+green chickpeas
+black chickpeas
