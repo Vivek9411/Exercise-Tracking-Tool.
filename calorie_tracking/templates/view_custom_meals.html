@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>Your Custom Meals</h2>
+
+    {% if meals %}
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Calories</th>
+                    <th>Protein</th>
+                    <th>Sugar</th>
+                    <th>Carbs</th>
+                    <th>Fiber</th>
+                    <th>Sodium</th>
+                    <th>Items</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for meal in meals %}
+                <tr>
+                    <td>{{ meal.name }}</td>
+                    <td>{{ meal.total_calories }}</td>
+                    <td>{{ meal.total_protein }}</td>
+                    <td>{{ meal.total_sugar }}</td>
+                    <td>{{ meal.total_carbohydrates }}</td>
+                    <td>{{ meal.total_fiber }}</td>
+                    <td>{{ meal.total_sodium }}</td>
+                    <td>
+                        <ul>
+                            {% for item, quantity in meal_data[meal.id] %}
+                                <li>{{ item }} (x{{ quantity }})</li>
+                            {% endfor %}
+                        </ul>
+                    </td>
+                    <td>
+                        <a href="{{ url_for('edit_meal', meal_id=meal.id) }}" class="btn btn-warning btn-sm">Edit</a>
+{#                        <form method="POST" action="{{ url_for('delete_custom_meal', meal_id=meal.id) }}" style="display:inline;">#}
+{#                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">Delete</button>#}
+{#                        </form>#}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>No custom meals found. <a href="{{ url_for('add_custom_meal') }}">Create one</a>.</p>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>Create Custom Meal</h2>
+
+    <form method="POST">
+        {{ form.hidden_tag() }}
+
+        <div class="form-group">
+            <label for="meal-name">Meal Name</label>
+            <input type="text" name="name" id="meal-name" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Select Meal Items</label>
+            <div id="items-container">
+                {% for value, label in form.items.choices %}
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input item-checkbox" id="item-{{ value }}" value="{{ value }}" name="items">
+                        <label class="form-check-label" for="item-{{ value }}">{{ label }}</label>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div id="quantities-section"></div>
+
+        <button type="submit" class="btn btn-primary mt-3">Create Meal</button>
+    </form>
+</div>
+
+<!-- Include jQuery -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+
+<script>
+$(document).ready(function() {
+    $(".item-checkbox").on("change", function() {
+        let itemId = $(this).val();
+        let itemLabel = $(this).next("label").text();
+        let container = $("#quantities-section");
+
+        if ($(this).is(":checked")) {
+            // Add quantity input for selected item
+            let quantityDiv = $("<div>").addClass("form-group quantity-group").attr("id", "quantity-" + itemId);
+            let quantityLabel = $("<label>").text("Quantity for " + itemLabel);
+            let quantityInput = $("<input>").attr({
+                type: "number",
+                name: "quantities",
+                class: "form-control",
+                min: 1,
+                value: 1
+            });
+
+            quantityDiv.append(quantityLabel).append(quantityInput);
+            container.append(quantityDiv);
+        } else {
+            // Remove quantity input if item is deselected
+            $("#quantity-" + itemId).remove();
+        }
+    });
+});
+</script>
+
+{% endblock %}

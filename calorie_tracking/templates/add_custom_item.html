@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block content %}
+     <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow-sm p-4">
+                    <h2 class="text-center mb-4">Add Custom Item</h2>
+                    <form method="POST">
+                        {{ form.hidden_tag() }}
+
+                        <div class="mb-3">
+                            {{ form.food.label(class="form-label") }}
+                            {{ form.food(class="form-control", placeholder="Enter Food Item") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.description.label(class="form-label") }}
+                            {{ form.description(class="form-control", placeholder="Enter Description") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.unit.label(class="form-label") }}
+                            {{ form.unit(class="form-control") }}
+                        </div>
+{#                         <div class="mb-3">#}
+{#                            {{ form.gender.label(class="form-label") }}#}
+{#                            {{ form.gender(class="form-control") }}#}
+{#                        </div>#}
+                        <div class="mb-3">
+                            {{ form.quantity.label(class="form-label") }}
+                            {{ form.quantity(class="form-control", placeholder="Enter Quantity") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.calories.label(class="form-label") }}
+                            {{ form.calories(class="form-control") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.protein.label(class="form-label") }}
+                            {{ form.protein(class="form-control") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.sugar.label(class="form-label") }}
+                            {{ form.sugar(class="form-control") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.carbohydrates.label(class="form-label") }}
+                            {{ form.carbohydrates(class="form-control") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.fiber.label(class="form-label") }}
+                            {{ form.fiber(class="form-control") }}
+                        </div>
+
+                        <div class="mb-3">
+                            {{ form.sodium.label(class="form-label") }}
+                            {{ form.sodium(class="form-control") }}
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100">Add Custom Item</button>
+                    </form>
+                    <div class="mt-3 d-flex justify-content-end">
+                        <a href="{{ url_for('home') }}" class="btn btn-secondary">Back</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

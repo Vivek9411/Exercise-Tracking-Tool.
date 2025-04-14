@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5 text-center">
+<h2 class="text-center">Food Intake Records</h2>
+
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered text-center">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Food</th>
+                        <th>Quantity</th>
+                        <th>Serving Unit</th>
+                        <th>Calories</th>
+                        <th>Protein (g)</th>
+                        <th>Carbohydrates (g)</th>
+                        <th>Sodium (mg)</th>
+                        <th>Fiber (g)</th>
+                        <th>Sugar (g)</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if food_intake_records %}
+                    <tr>
+                        <td>{{ food_intake_records.date }}</td>
+                        <td>{{ food_intake_records.time }}</td>
+                        <td>{{ food_intake_records.food }}</td>
+                        <td>{{ food_intake_records.quantity }}</td>
+                        <td>{{ food_intake_records.serving_unit }}</td>
+                        <td>{{ food_intake_records.calories }}</td>
+                        <td>{{ food_intake_records.protein }}</td>
+                        <td>{{ food_intake_records.carbohydrates }}</td>
+                        <td>{{ food_intake_records.sodium }}</td>
+                        <td>{{ food_intake_records.fiber }}</td>
+                        <td>{{ food_intake_records.sugar }}</td>
+                        <td>{{ food_intake_records.description }}</td>
+                    </tr>
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+
+        <a href="{{ back }}" class="btn btn-secondary mt-3">Back</a>
+    </div>
+</div>
+{% endblock %}

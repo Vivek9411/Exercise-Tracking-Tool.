@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="container mt-5 text-center">
+        <h2>Welcome, {{ name }}!</h2>
+        <p>Manage your calorie intake and exercise from here.</p>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="d-grid gap-2">
+                    <a href="{{ url_for('add_calorie_intake') }}" class="btn btn-success btn-custom m-1 mb-2">Add Calorie Intake</a>
+                    <a href="{{ url_for('add_exercise_done') }}" class="btn btn-info btn-custom m-1 mb-2">Add Exercise</a>
+                    <a href="{{ url_for('add_item') }}" class='btn btn-info' > add custom item</a>
+                    <a href="{{ url_for('view_custom_items') }}" class='btn btn-info' > view_custom_items</a>
+
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="d-grid gap-2">
+                    <a  href="{{ url_for('daily_report') }}" class="btn btn-warning btn-custom m-1 mb-2 ">Daily Report</a>
+                    <a href="{{ url_for('weekly_report') }}" class="btn btn-warning btn-custom m-1 mb-2">Weekly Report</a>
+                    <a href="{{ url_for('monthly_report') }}" class="btn btn-warning btn-custom m-1 mb-2">Monthly Report</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
